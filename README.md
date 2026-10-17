@@ -31,7 +31,7 @@ en çok sayı atan takım, en iyi oyuncu ve en etkili menajer belirlenir.
 Python 3.8 veya üzeri gerekir. Harici kütüphane kullanılmaz.
 
 ```bash
-git clone https://github.com/KULLANICI_ADINIZ/basketball-league-python.git
+git clone https://github.com/sevdebetulozturk/basketball-league-python.git
 cd basketball-league-python
 python basketball_league.py
 ```
@@ -41,7 +41,46 @@ Sonuçlar rastgele üretildiği için her çalıştırmada farklıdır.
 ## Örnek Çıktı
 
 ```
-(kendi terminalinizdeki çıktıyı buraya yapıştırın)
+BASKETBALL LEAGUE
+=================
+Takim sayisi: 4
+Mac sayisi: 12
+
+WEEK 1
+Izmir Waves (105) vs. (97) Istanbul Lions
+WEEK 2
+Istanbul Lions (83) vs. (110) Izmir Waves
+WEEK 3
+Izmir Waves (105) vs. (136) Bursa Bulls
+WEEK 4
+Bursa Bulls (141) vs. (101) Izmir Waves
+WEEK 5
+Izmir Waves (111) vs. (109) Ankara Falcons
+WEEK 6
+Ankara Falcons (98) vs. (118) Izmir Waves
+WEEK 7
+Istanbul Lions (96) vs. (146) Bursa Bulls
+WEEK 8
+Bursa Bulls (114) vs. (69) Istanbul Lions
+WEEK 9
+Istanbul Lions (115) vs. (124) Ankara Falcons
+WEEK 10
+Ankara Falcons (106) vs. (93) Istanbul Lions
+WEEK 11
+Bursa Bulls (145) vs. (130) Ankara Falcons
+WEEK 12
+Ankara Falcons (106) vs. (147) Bursa Bulls
+
+FINAL STANDINGS
+Bursa Bulls | Lig puani: 12 | Galibiyet: 6 | Atilan sayi: 829
+Izmir Waves | Lig puani: 8 | Galibiyet: 4 | Atilan sayi: 650
+Ankara Falcons | Lig puani: 4 | Galibiyet: 2 | Atilan sayi: 673
+Istanbul Lions | Lig puani: 0 | Galibiyet: 0 | Atilan sayi: 553
+
+Sampiyon: Bursa Bulls
+En cok sayi atan takim: Bursa Bulls
+En cok puan alan oyuncu: Cem Oz
+En yuksek etki puanli menajer: Ece Aydin
 ```
 
 ## Kullanılan Kavramlar
@@ -70,4 +109,4 @@ Sonuçlar rastgele üretildiği için her çalıştırmada farklıdır.
 
 ## Hakkında
 
-Bu proje [Ders Adı] dersi kapsamında geliştirilmiştir.
+Bu proje INF212 dersi kapsamında geliştirilmiştir.
